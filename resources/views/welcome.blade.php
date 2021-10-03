@@ -174,7 +174,7 @@
                     style="font-size: xx-small; margin-inline: auto;">English</span></a>
             <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarDefault"
                 aria-controls="navbarDefault" aria-expanded="false" aria-label="Toggle navigation">
-            
+
             </button>
             <div class="collapse navbar-collapse text-dark" id="navbarDefault" style="direction: rtl;">
                 <ul class="navbar-nav" style="padding: unset;">
@@ -238,7 +238,7 @@
                                     <div class="col-sm-6 col-md-7">
                                         <div class="about-info">
                                             <p style="text-align: right"><span class="title-s">الاسم : </span>
-                                                <span>حسين الدال</span>
+                                                <span>حسين الدالي</span>
                                             </p>
                                             <p style="text-align: right"><span class="title-s">المهنة : </span>
                                                 <span> مبرمج ومصمم مواقع و تطبيقات</span>
