@@ -21,8 +21,9 @@ Route::get('/en', function () {
     return view('index');
 });
 
-Route::get('/dashboard',[dashboard::class,'index'])->middleware(['auth'])->name('dashboard');
+Route::get('/dashboard', [dashboard::class, 'index'])->middleware(['auth'])->name('dashboard');
 Route::get('/delete/{id}', [dashboard::class, 'destroy']);
+Route::post('/store/messge',[dashboard::class, 'storemessge'])->name('store.messge');
 
 
-require __DIR__.'/auth.php';
+require __DIR__ . '/auth.php';

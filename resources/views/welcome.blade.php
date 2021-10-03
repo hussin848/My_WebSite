@@ -610,7 +610,11 @@
                                             أرسل إلي رسالة </h5>
                                     </div>
                                     <div>
-                                        <form action="" method="post" role="form" class="contactForm">
+
+
+
+                                        <form action="{{ route('store.messge') }}" method="post" role="form" class="contactForm">
+                                            @csrf
                                             <div id="sendmessage">تم ارسال الرسالة بنجاح</div>
                                             <div id="errormessage">هناك خطأ غير متوقع الرجاء اعادة المحاولة</div>
                                             <div class="row">
@@ -660,7 +664,7 @@
                                 <div class="col-md-6">
                                     <div class="title-box-2 pt-4 pt-md-0" style="text-align:justify;">
                                         <h5 class="title-left">
-                                            معلومات الاتصال </h5>
+                                            معلومات الاتصال  </h5>
                                     </div>
                                     <div class="more-info">
                                         <div class="container" style="direction: ltr;">
