@@ -660,7 +660,7 @@
                                 <div class="col-md-6">
                                     <div class="title-box-2 pt-4 pt-md-0" style="text-align:justify;">
                                         <h5 class="title-left">
-                                            معلومات الاتصال </h5>
+                                            معلومات الاتصال  </h5>
                                     </div>
                                     <div class="more-info">
                                         <div class="container" style="direction: ltr;">
