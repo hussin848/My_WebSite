@@ -743,7 +743,7 @@
                             <script>
                                 document.write(new Date().getFullYear())
                             </script></p>
-                        <div class="credits">Designed by <a href=""><strong>M Kamel</strong>.</a>
+                        <div class="credits">Designed by <a href=""><strong>Hussain</strong>.</a>
                         </div>
                     </div>
                 </div>

@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-
+use App\Http\Controllers\dashboard;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -20,8 +20,9 @@ Route::get('/', function () {
 Route::get('/en', function () {
     return view('index');
 });
-Route::get('/dashboard', function () {
-    return view('dashboard');
-})->middleware(['auth'])->name('dashboard');
+
+Route::get('/dashboard',[dashboard::class,'index'])->middleware(['auth'])->name('dashboard');
+Route::get('/delete/{id}', [dashboard::class, 'destroy']);
+
 
 require __DIR__.'/auth.php';

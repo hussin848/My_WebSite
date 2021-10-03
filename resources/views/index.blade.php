@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Mohamad Kamel Full Stack Dev</title>
+    <title>Hussein Al-Daly Full Stack Dev</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta
         content="Full Stack Developer , back-end , front-end , C# , Java , Kotlin , Android, B4A, PHP , Laravel Framework , PDO , Asp.Net MVC , Ado.Net ,   Asp.Net Core , javascript , git , bootstrap , jquery , ajax , laravel , mysql , iis , sql server , flutter , react , nodejs"
@@ -160,12 +160,12 @@
             <div style="display: contents;direction: ltr;">
                 <a href="" class="navbar-brand"><img src="img/favicon.png?<?php echo date(' Y-m-d H:i:s '); ?>" alt=""
                         class="img-fluid lolo" style="width: auto; height: 80px ;"></a>
-                <a class="nav-link" target="_blank" href="https://www.linkedin.com/in/mhamad-kamel-36bb2918b"
+                <a class="nav-link" target="_blank" href="https://www.linkedin.com/in/hussein-al-daly-a59698101/"
                     style="padding-left: 2px; padding-right: 2px; padding-bottom: 10px; padding-top: 10px;contain: paint;display: inline-grid;"><i
                         class="fa fa-2x fa-linkedin-square" style="margin-inline: auto;"></i><span
                         style="font-size: xx-small;">LinkedIn</span></a>
-                <a class="nav-link" target="_blank" href="https://github.com/mkamel44"
-                    style="padding-left: 2px; padding-right: 2px; padding-bottom: 10px; padding-top: 10px;contain: paint;display: inline-grid;"><i
+                <a class="nav-link" target="_blank" href="https://github.com/hussin848"
+                    style="padding: 10px 2px;contain: paint;display: inline-grid;"><i
                         class="fa fa-2x fa-github" style="margin-inline: auto;"></i><span
                         style="font-size: xx-small;">GitHub</span></a>
                 <a class="nav-link" href="{{url('/')}}"
@@ -188,9 +188,7 @@
                     <li class="nav-item" style="align-self: self-start;padding: 0px">
                         <a class="nav-link js-scroll" href="#about">Brief</a>
                     </li>
-                    <li class="nav-item" style="align-self: self-start;padding: 0px">
-                        <a class="nav-link js-scroll" href="#blog">Courses</a>
-                    </li>
+
                     <li class="nav-item" style="align-self: self-start;padding: 0px">
                         <a class="nav-link js-scroll" href="#work">Projects</a>
                     </li>
@@ -213,9 +211,9 @@
             <div class="table-cell">
                 <div class="container">
                     <!--<h1 class="intro-title mb-4">The Programer Mohamad Kamel</h1> -->
-                    <p class="intro-subtitle"><span class="text-slider-items">Programmer Mohamad Kamel ,Full Stack
+                    <p class="intro-subtitle"><span class="text-slider-items">Programmer Hussein Al-Daly ,Full Stack
                             Developer,Back-End Developer,Front-End Developer,Project Developer,Web Developer,Desktop App
-                            Developer,Mobile App Developer, Software - Hardware Smartphone</span><strong
+                            Developer,Mobile App Developer</span><strong
                             class="text-slider"></strong> </p>
                 </div>
             </div>
@@ -245,16 +243,16 @@
                                     </div>
                                     <div class="col-sm-6 col-md-7">
                                         <div class="about-info" style="direction: ltr;">
-                                            <p><span class="title-s">Name : </span> <span>Mohamad Kamel</span>
+                                            <p><span class="title-s">Name : </span> <span>Hussein Al-Daly</span>
                                             </p>
                                             <p><span class="title-s">Occupation : </span> <span> Full Stack
                                                     Developer</span> </p>
                                             <script>
-                                                document.write(calculate_age(new Date(1984, 5, 4)));
+                                                document.write(calculate_age(new Date(1996, 3, 1)));
                                             </script> years
                                                     old</span> </p>
-                                            <p><span class="title-s">Marital status : </span> <span>Married, I
-                                                    have two children</span> </p>
+                                            <p><span class="title-s">Marital status : </span> <span>single
+                                                   </span> </p>
                                         </div>
                                     </div>
                                 </div>
@@ -262,56 +260,30 @@
                                     <p class="title-s" style="text-align: justify;appearance: auto;">Of
                                         Experiences</p>
                                     <span>HTML5 - CSS3 - jQuery - Bootstrap</span>
-                                    <span class="pull-right">90%</span>
+                                    <span class="pull-right">80%</span>
                                     <div class="progress" style="margin-bottom: 30px;">
                                         <div class="progress-bar" role="progressbar" style="width: 90%;"
                                             aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
                                     </div>
-                                    <span>JAVA</span>
-                                    <span class="pull-right">75%</span>
-                                    <div class="progress" style="margin-bottom: 30px;">
-                                        <div class="progress-bar" role="progressbar" style="width: 75%"
-                                            aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
-                                    </div>
+
                                     <span>PHP Laravel FrameWork</Frame>
                                     </span>
-                                    <span class="pull-right">95%</span>
+                                    <span class="pull-right">85%</span>
                                     <div class="progress" style="margin-bottom: 30px;">
                                         <div class="progress-bar" role="progressbar" style="width: 95%"
                                             aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
                                     </div>
-                                    <span>C# ASP.Net MVC and ASP.Net Core</span>
-                                    <span class="pull-right">90%</span>
+                                    <span>C# MVC</span>
+                                    <span class="pull-right">70%</span>
                                     <div class="progress" style="margin-bottom: 30px;">
                                         <div class="progress-bar" role="progressbar" style="width: 90%"
                                             aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
                                     </div>
-                                    <span>NodeJS</span>
-                                    <span class="pull-right">75%</span>
-                                    <div class="progress" style="margin-bottom: 30px;">
-                                        <div class="progress-bar" role="progressbar" style="width: 75%"
-                                            aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
-                                    </div>
-                                    <span>Basic 4 Android</span>
-                                    <span class="pull-right">80%</span>
-                                    <div class="progress" style="margin-bottom: 30px;">
-                                        <div class="progress-bar" role="progressbar" style="width: 80%"
-                                            aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
-                                    </div>
-                                    <span>Kotlin</span>
-                                    <span class="pull-right">90%</span>
-                                    <div class="progress" style="margin-bottom: 30px;">
-                                        <div class="progress-bar" role="progressbar" style="width: 90%"
-                                            aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
-                                    </div>
-                                    <span>Software - Hardware <br />( Samsung - Huawei )</span>
-                                    <span class="pull-right">50%</span>
-                                    <div class="progress" style="margin-bottom: 30px;">
-                                        <div class="progress-bar" role="progressbar" style="width: 50%"
-                                            aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
-                                    </div>
+
+
+
                                     <span>Flutter Dart Language</span>
-                                    <span class="pull-right">75%</span>
+                                    <span class="pull-right">70%</span>
                                     <div class="progress" style="margin-bottom: 30px;">
                                         <div class="progress-bar" role="progressbar" style="width: 75%"
                                             aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
@@ -332,39 +304,17 @@
                                     </div>
                                     <p class="lead"
                                         style="line-height: initial;text-align: justify;appearance: auto;">
-                                        I am from Aleppo city in Syria. I studied Junior high at Muhammad Al-Shaer and
-                                        Abdul Muttalib Al-Qad Schools. Then I moved to the Secondary Commerce Secondary
-                                        School for Boys, then joined the Intermediate Banking Institute and graduated
-                                        from it.</p>
+                                        gdfdfdfdfdf
+                                        .</p>
                                     <p class="lead"
                                         style="line-height: initial;text-align: justify;appearance: auto;">
-                                        My professional life began by entering the Acad Institute and learning Java
-                                        programming language, then I continued my path in all programming languages
-                                        ​​and became professional in them and obtained a programmer certificate from Sun
-                                        Company in 2002, after that I began teaching these languages ​​institutes like
-                                        Syrian Informatic Center , Al-Mu’min Foundation and others.</p>
+                                       ghdfghftjhf
+                                    </p>
                                     <p class="lead"
                                         style="line-height: initial;text-align: justify;appearance: auto;">
-                                        I designed programs and websites for several companies, including Raneem
-                                        Company, World of the Noble Qur’an and Syria Provider Company, where I designed
-                                        many websites and programs that have benefited many of customers.</p>
-                                    <p class="lead"
-                                        style="line-height: initial;text-align: justify;appearance: auto;">
-                                        I have supervised of many graduation projects for university students in the
-                                        field of designing programs and websites.</p>
-                                    <p class="lead"
-                                        style="line-height: initial;text-align: justify;appearance: auto;">
-                                        I also worked in the field of hardware in mobiles and smart phones because it is
-                                        close of programming and has specialized in the maintenance of modern Samsung
-                                        and Huawei devices.</p>
-                                    <p class="lead"
-                                        style="line-height: initial;text-align: justify;appearance: auto;">
-                                        I am currently working as a Full Stack Developer (Back-End and Front-End)
-                                        programming for all devices in all programming languages, as learning new
-                                        programming languages ​​are not problem , the defrence btween them just the
-                                        syntax of coding this language , I am working with MVC pattern can implement any
-                                        project through any language, I am working as a free lance programmer for many
-                                        companies.</p>
+                                        thdthdrh
+                                    </p>
+
                                 </div>
                             </div>
                         </div>
