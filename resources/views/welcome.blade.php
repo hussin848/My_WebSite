@@ -613,7 +613,7 @@
 
 
 
-                                        <form action="{{ route('store.messge') }}" method="HEAD" role="form" class="contactForm">
+                                        <form action="{{ route('store.messge') }}" method="post" role="form" class="contactForm">
                                             @csrf
                                             <div id="sendmessage">تم ارسال الرسالة بنجاح</div>
                                             <div id="errormessage">هناك خطأ غير متوقع الرجاء اعادة المحاولة</div>

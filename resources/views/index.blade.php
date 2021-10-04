@@ -737,7 +737,7 @@
                                             Send A Message </h5>
                                     </div>
                                     <div>
-                                        <form action="{{ route('store.messge') }}" method="HEAD" role="form" class="contactForm">
+                                        <form action="{{ route('store.messge') }}" method="post" role="form" class="contactForm">
                                             @csrf
                                             <div id="sendmessage">Your message has been sent. Thank you!</div>
                                             <div id="errormessage">There is somthing wrong. plase try again!</div>
