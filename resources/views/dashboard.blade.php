@@ -1,5 +1,8 @@
 <x-app-layout>
     <x-slot name="header">
+
+    </x-slot>
+
         @extends('layouts.admin')
         @section('content')
             <!-- Page Heading -->
@@ -84,7 +87,7 @@
             <script src="{{ asset('backend/js/demo/chart-pie-demo.js') }}"></script>
         @endsection
 
-    </x-slot>
+
 
 
 
